@@ -1,0 +1,48 @@
+## ±÷”
+set_property PACKAGE_PIN P17 [get_ports clk]
+set_property IOSTANDARD LVCMOS33 [get_ports clk]
+
+##LED
+set_property PACKAGE_PIN F6 [get_ports {led[7]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {led[7]}]
+set_property PACKAGE_PIN G4 [get_ports {led[6]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {led[6]}]
+set_property PACKAGE_PIN G3 [get_ports {led[5]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {led[5]}]
+set_property PACKAGE_PIN J4 [get_ports {led[4]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {led[4]}]
+set_property PACKAGE_PIN H4 [get_ports {led[3]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {led[3]}]
+set_property PACKAGE_PIN J3 [get_ports {led[2]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {led[2]}]
+set_property PACKAGE_PIN J2 [get_ports {led[1]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {led[1]}]
+set_property PACKAGE_PIN K2 [get_ports {led[0]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {led[0]}]
+
+set_property PACKAGE_PIN K6 [get_ports {t1[3]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {t1[3]}]
+set_property PACKAGE_PIN L1 [get_ports {t1[2]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {t1[2]}]
+set_property PACKAGE_PIN M1 [get_ports {t1[1]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {t1[1]}]
+set_property PACKAGE_PIN K3 [get_ports {t1[0]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {t1[0]}]
+##status
+set_property PACKAGE_PIN M4 [get_ports {a[2]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {a[2]}]
+set_property PACKAGE_PIN N4 [get_ports {a[1]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {a[1]}]
+set_property PACKAGE_PIN R1 [get_ports {a[0]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {a[0]}]
+
+##buttons
+set_property PACKAGE_PIN R15 [get_ports switch]
+set_property IOSTANDARD LVCMOS33 [get_ports switch]
+set_property PACKAGE_PIN U4 [get_ports up]
+set_property IOSTANDARD LVCMOS33 [get_ports up]
+set_property PACKAGE_PIN R17 [get_ports down]
+set_property IOSTANDARD LVCMOS33 [get_ports down]
+
+set_property CLOCK_DEDICATED_ROUTE FALSE [get_nets {switch_IBUF}]
+set_property CLOCK_DEDICATED_ROUTE FALSE [get_nets up_IBUF]

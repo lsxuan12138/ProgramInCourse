@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602579268 source:d:\clanguage\输出上三角九九乘法表\main.c
+	<stdio.h>
+	<stdlib.h>
+

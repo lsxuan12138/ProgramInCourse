@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604583046 source:d:\clanguage\验证回文数生成方法\main.c
+	<stdio.h>
+	<stdlib.h>
+

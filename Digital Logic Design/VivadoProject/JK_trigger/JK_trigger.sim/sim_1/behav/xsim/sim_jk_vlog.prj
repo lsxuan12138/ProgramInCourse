@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../JK_trigger.srcs/sources_1/new/jk_trigger.v" \
+"../../../../JK_trigger.srcs/sim_1/new/sim_jk.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

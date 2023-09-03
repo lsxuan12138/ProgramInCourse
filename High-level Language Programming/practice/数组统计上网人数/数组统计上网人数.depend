@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604152708 source:d:\clanguage\数组统计上网人数\main.c
+	<stdio.h>
+	<stdlib.h>
+

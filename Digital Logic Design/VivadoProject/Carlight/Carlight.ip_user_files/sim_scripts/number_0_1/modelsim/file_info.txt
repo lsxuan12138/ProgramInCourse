@@ -1,0 +1,3 @@
+number.v,verilog,xil_defaultlib,../../../../Carlight.gen/sources_1/ip/number_0_1/sources_1/new/number.v,
+number_0.v,verilog,xil_defaultlib,../../../../Carlight.gen/sources_1/ip/number_0_1/sim/number_0.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

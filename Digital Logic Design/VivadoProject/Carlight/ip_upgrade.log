@@ -1,0 +1,247 @@
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.1 (win64) Build 3247384 Thu Jun 10 19:36:33 MDT 2021
+| Date         : Wed Dec  1 17:08:59 2021
+| Host         : MateBook14 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a35tcsg324-3
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'led_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of led_0 (xilinx.com:user:led:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.1 (win64) Build 3247384 Thu Jun 10 19:36:33 MDT 2021
+| Date         : Wed Dec  1 16:55:25 2021
+| Host         : MateBook14 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a35tcsg324-3
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'led_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of led_0 (xilinx.com:user:led:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.1 (win64) Build 3247384 Thu Jun 10 19:36:33 MDT 2021
+| Date         : Wed Dec  1 16:29:06 2021
+| Host         : MateBook14 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a35tcsg324-3
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'led_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of led_0 (xilinx.com:user:led:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.1 (win64) Build 3247384 Thu Jun 10 19:36:33 MDT 2021
+| Date         : Wed Dec  1 12:56:47 2021
+| Host         : MateBook14 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a35tcsg324-3
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'divClk_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of divClk_0 (xilinx.com:user:divClk:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.1 (win64) Build 3247384 Thu Jun 10 19:36:33 MDT 2021
+| Date         : Wed Dec  1 12:34:40 2021
+| Host         : MateBook14 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a35tcsg324-3
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'mc_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of mc_0 (xilinx.com:user:mc:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.1 (win64) Build 3247384 Thu Jun 10 19:36:33 MDT 2021
+| Date         : Wed Dec  1 12:34:39 2021
+| Host         : MateBook14 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a35tcsg324-3
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'led_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of led_0 (xilinx.com:user:led:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.1 (win64) Build 3247384 Thu Jun 10 19:36:33 MDT 2021
+| Date         : Wed Dec  1 01:16:36 2021
+| Host         : MateBook14 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a35tcsg324-3
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'mc_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of mc_0 (xilinx.com:user:mc:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.1 (win64) Build 3247384 Thu Jun 10 19:36:33 MDT 2021
+| Date         : Wed Dec  1 01:04:34 2021
+| Host         : MateBook14 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a35tcsg324-3
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'mc_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of mc_0 (xilinx.com:user:mc:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.1 (win64) Build 3247384 Thu Jun 10 19:36:33 MDT 2021
+| Date         : Wed Dec  1 00:34:39 2021
+| Host         : MateBook14 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a35tcsg324-3
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'mc_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of mc_0 (xilinx.com:user:mc:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.1 (win64) Build 3247384 Thu Jun 10 19:36:33 MDT 2021
+| Date         : Wed Dec  1 00:10:39 2021
+| Host         : MateBook14 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a35tcsg324-3
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'mc_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of mc_0 (xilinx.com:user:mc:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.1 (win64) Build 3247384 Thu Jun 10 19:36:33 MDT 2021
+| Date         : Tue Nov 30 22:39:08 2021
+| Host         : MateBook14 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a35tcsg324-3
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'mc_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of mc_0 (xilinx.com:user:mc:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.1 (win64) Build 3247384 Thu Jun 10 19:36:33 MDT 2021
+| Date         : Tue Nov 30 22:35:41 2021
+| Host         : MateBook14 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a35tcsg324-3
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'mc_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of mc_0 (xilinx.com:user:mc:1.0 (Rev. 1)) to Vivado generation flows.
+

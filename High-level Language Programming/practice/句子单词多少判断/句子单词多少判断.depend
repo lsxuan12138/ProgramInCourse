@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1603021689 source:d:\clanguage\句子单词多少判断\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

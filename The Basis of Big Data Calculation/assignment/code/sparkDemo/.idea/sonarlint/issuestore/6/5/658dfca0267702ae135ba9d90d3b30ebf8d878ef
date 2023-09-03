@@ -1,0 +1,23 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õøÁÊøÿÿÿÿ
+i
+java:S2095"NUse try-with-resources or close this "JavaSparkContext" in a "finally" clause.(î¹Œªøÿÿÿÿ
+M
+java:S1854"7Remove this useless assignment to local variable "sub".(œğˆÿ
+>
+java:S1481"(Remove this unused "sub" local variable.(œğˆÿ
+V
+java:S1128"@Remove this unused import 'com.google.common.collect.Iterables'.(Ö”Èù
+T
+java:S1128">Remove this unused import 'org.apache.spark.api.java.JavaRDD'.(¼¦‘ 
+^
+java:S1128"HRemove this unused import 'org.apache.spark.api.java.function.Function'.(Û¢“²
+d
+java:S1128	"IRemove this unused import 'org.apache.spark.api.java.function.Function2'.(¾²Ûúÿÿÿÿ
+i
+java:S1128
+"SRemove this unused import 'org.apache.spark.api.java.function.PairFlatMapFunction'.(•€î‚
+g
+java:S1128"LRemove this unused import 'org.apache.spark.api.java.function.PairFunction'.(¶’»øÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ

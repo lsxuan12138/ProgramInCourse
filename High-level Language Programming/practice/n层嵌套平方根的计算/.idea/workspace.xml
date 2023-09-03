@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="67582ba0-b321-4edb-b375-b87bbe91e8b2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectId" id="1isITnPbuAWsF8TS6tmowuCHjUs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../clion" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67582ba0-b321-4edb-b375-b87bbe91e8b2" name="Default Changelist" comment="" />
+      <created>1602689883580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602689883580</updated>
+      <workItem from="1602689884927" duration="413000" />
+      <workItem from="1602690389285" duration="146000" />
+      <workItem from="1602749192217" duration="87000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="175" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602690439242">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="175" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.920@0.0.1440.920" timestamp="1602690439242" />
+    <state x="407" y="261" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602690407451">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="407" y="261" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.920@0.0.1440.920" timestamp="1602690407451" />
+    <state x="501" y="201" key="FileChooserDialogImpl" timestamp="1602690468994">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="501" y="201" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1602690468994" />
+    <state x="222" y="105" key="SettingsEditor" timestamp="1602690143750">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="222" y="105" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1602690143750" />
+  </component>
+</project>

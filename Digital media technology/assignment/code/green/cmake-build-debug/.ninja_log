@@ -1,0 +1,12 @@
+# ninja log v5
+3	1711	7083486183182839	CMakeFiles/green.dir/src/green.cpp.obj	8087e86649de007d
+0	211	7083582588446418	build.ninja	f6a702d2b3907a0c
+1712	1861	7083486184627164	green.exe	76ed37f49e80704d
+5	157	7083446946751844	CMakeFiles/green.dir/src/compress.cpp.obj	e21a7ababf449ff2
+12	185	7083459264669907	CMakeFiles/green.dir/E_/Project/CLionProject/compress/compress.cpp.obj	988d74fb13eafb83
+4	2056	7083584007905115	CMakeFiles/green.dir/src/green.cpp.obj	8087e86649de007d
+2057	2194	7083584009235087	green.exe	76ed37f49e80704d
+4	1936	7083584231477688	CMakeFiles/green.dir/src/green.cpp.obj	8087e86649de007d
+1937	2070	7083584232789645	green.exe	76ed37f49e80704d
+4	1638	7084353474191062	CMakeFiles/green.dir/src/green.cpp.obj	8087e86649de007d
+1638	1780	7084353475563600	green.exe	76ed37f49e80704d

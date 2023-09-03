@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VProject/divClk/divClk.srcs/sources_1/new/divClk.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module divClk
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'divClk' is not allowed [D:/VProject/divClk/divClk.srcs/sources_1/new/divClk.v:31]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VProject/divClk/divClk.srcs/sim_1/new/sim_div.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sim_div

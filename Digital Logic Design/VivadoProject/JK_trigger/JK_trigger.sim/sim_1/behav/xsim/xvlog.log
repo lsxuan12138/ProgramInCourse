@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VProject/JK_trigger/JK_trigger.srcs/sources_1/new/jk_trigger.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module jk_trigger
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'Q' is not allowed [D:/VProject/JK_trigger/JK_trigger.srcs/sources_1/new/jk_trigger.v:31]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VProject/JK_trigger/JK_trigger.srcs/sim_1/new/sim_jk.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sim_jk

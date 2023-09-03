@@ -1,0 +1,3 @@
+add_half.v,verilog,xil_defaultlib,../../../../test2.3.gen/sources_1/ip/add_half_0/add_half.v,
+add_half_0.v,verilog,xil_defaultlib,../../../../test2.3.gen/sources_1/ip/add_half_0/sim/add_half_0.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603264876 source:d:\clanguage\求三位阶乘和输送\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603960456 source:d:\clanguage\统计字母数量\main.c
+	<stdio.h>
+	<stdlib.h>
+

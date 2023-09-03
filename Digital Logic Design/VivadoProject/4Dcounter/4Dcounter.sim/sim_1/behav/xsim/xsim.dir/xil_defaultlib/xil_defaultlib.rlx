@@ -1,0 +1,14 @@
+0.7
+2020.2
+Jun 10 2021
+20:04:57
+D:/VProject/4Dcounter/4Dcounter.ip_user_files/bd/D_beat/ip/D_beat_D_trigger_0_0/sim/D_beat_D_trigger_0_0.v,1635505428,verilog,,D:/VProject/4Dcounter/4Dcounter.ip_user_files/bd/D_beat/ip/D_beat_D_trigger_1_0/sim/D_beat_D_trigger_1_0.v,,D_beat_D_trigger_0_0,,,,,,,,
+D:/VProject/4Dcounter/4Dcounter.ip_user_files/bd/D_beat/ip/D_beat_D_trigger_1_0/sim/D_beat_D_trigger_1_0.v,1635505428,verilog,,D:/VProject/4Dcounter/4Dcounter.ip_user_files/bd/D_beat/ip/D_beat_D_trigger_2_0/sim/D_beat_D_trigger_2_0.v,,D_beat_D_trigger_1_0,,,,,,,,
+D:/VProject/4Dcounter/4Dcounter.ip_user_files/bd/D_beat/ip/D_beat_D_trigger_2_0/sim/D_beat_D_trigger_2_0.v,1635505429,verilog,,D:/VProject/4Dcounter/4Dcounter.ip_user_files/bd/D_beat/ip/D_beat_D_trigger_3_0/sim/D_beat_D_trigger_3_0.v,,D_beat_D_trigger_2_0,,,,,,,,
+D:/VProject/4Dcounter/4Dcounter.ip_user_files/bd/D_beat/ip/D_beat_D_trigger_3_0/sim/D_beat_D_trigger_3_0.v,1635505429,verilog,,D:/VProject/4Dcounter/4Dcounter.ip_user_files/bd/D_beat/ipshared/997f/myNor.v,,D_beat_D_trigger_3_0,,,,,,,,
+D:/VProject/4Dcounter/4Dcounter.ip_user_files/bd/D_beat/ip/D_beat_myNor_0_0/sim/D_beat_myNor_0_0.v,1635505429,verilog,,D:/VProject/4Dcounter/4Dcounter.ip_user_files/bd/D_beat/sim/D_beat.v,,D_beat_myNor_0_0,,,,,,,,
+D:/VProject/4Dcounter/4Dcounter.ip_user_files/bd/D_beat/ipshared/997f/myNor.v,1635505429,verilog,,D:/VProject/4Dcounter/4Dcounter.ip_user_files/bd/D_beat/ip/D_beat_myNor_0_0/sim/D_beat_myNor_0_0.v,,myNor,,,,,,,,
+D:/VProject/4Dcounter/4Dcounter.ip_user_files/bd/D_beat/ipshared/b024/D_trigger.v,1635505428,verilog,,D:/VProject/4Dcounter/4Dcounter.ip_user_files/bd/D_beat/ip/D_beat_D_trigger_0_0/sim/D_beat_D_trigger_0_0.v,,D_trigger,,,,,,,,
+D:/VProject/4Dcounter/4Dcounter.ip_user_files/bd/D_beat/sim/D_beat.v,1635505428,verilog,,D:/VProject/4Dcounter/4Dcounter.srcs/sim_1/new/sim_4Dcounter.v,,D_beat,,,,,,,,
+D:/VProject/4Dcounter/4Dcounter.sim/sim_1/behav/xsim/glbl.v,1623370582,verilog,,,,glbl,,,,,,,,
+D:/VProject/4Dcounter/4Dcounter.srcs/sim_1/new/sim_4Dcounter.v,1635505611,verilog,,,,sim_4Dcounter,,,,,,,,

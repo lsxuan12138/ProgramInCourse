@@ -1,0 +1,8 @@
+executable("multiprocess") 
+{  output_name = "multiprocess"
+    sources = [ "multiprocess.c" ]
+    include_dirs = []
+    defines = [] 
+    cflags_c = []  
+    ldflags = []
+}

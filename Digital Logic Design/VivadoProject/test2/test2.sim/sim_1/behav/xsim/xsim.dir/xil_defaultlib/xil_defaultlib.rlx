@@ -1,0 +1,8 @@
+0.7
+2020.2
+Jun 10 2021
+20:04:57
+D:/VProject/test2/test2.sim/sim_1/behav/xsim/glbl.v,1623370582,verilog,,,,glbl,,,,,,,,
+D:/VProject/test2/test2.srcs/sim_1/new/sim_voter_3p.v,1634571679,verilog,,,,sim_voter_3p,,,,,,,,
+D:/VProject/test2/test2.srcs/sources_1/new/mux8_to_1.v,1634567599,verilog,,D:/VProject/test2/test2.srcs/sources_1/new/voter_3p.v,,mux8_to_1,,,,,,,,
+D:/VProject/test2/test2.srcs/sources_1/new/voter_3p.v,1634571658,verilog,,D:/VProject/test2/test2.srcs/sim_1/new/sim_voter_3p.v,,voter_3p,,,,,,,,

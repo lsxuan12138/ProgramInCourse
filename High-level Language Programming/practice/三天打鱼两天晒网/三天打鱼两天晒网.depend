@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603537684 source:d:\clanguage\三天打鱼两天晒网\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604236106 source:d:\clanguage\字符串长度验证\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

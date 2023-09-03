@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602494625 source:d:\clanguage\删除字符串中第一次出现的a字符\main.c
+	<stdio.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604577642 source:d:\clanguage\穷举之商业贷款\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

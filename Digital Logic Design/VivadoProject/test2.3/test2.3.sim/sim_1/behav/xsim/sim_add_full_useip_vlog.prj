@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../test2.3.gen/sources_1/ip/add_half_0/add_half.v" \
+"../../../../test2.3.gen/sources_1/ip/add_half_0/sim/add_half_0.v" \
+"../../../../test2.3.srcs/sources_1/new/add_full.v" \
+"../../../../test2.3.srcs/sim_1/new/sim_add_full_useip.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

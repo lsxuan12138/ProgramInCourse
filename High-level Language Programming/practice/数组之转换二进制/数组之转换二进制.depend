@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602586618 source:d:\clanguage\数组之转换二进制\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

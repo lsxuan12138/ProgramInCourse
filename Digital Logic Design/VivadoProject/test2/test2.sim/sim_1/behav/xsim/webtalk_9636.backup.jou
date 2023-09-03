@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Mon Oct 18 23:44:51 2021
+# Process ID: 9636
+# Current directory: D:/VProject/test2/test2.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source D:/VProject/test2/test2.sim/sim_1/behav/xsim/xsim.dir/sim_voter_3p_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/VProject/test2/test2.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: D:/VProject/test2/test2.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source D:/VProject/test2/test2.sim/sim_1/behav/xsim/xsim.dir/sim_voter_3p_behav/webtalk/xsim_webtalk.tcl -notrace

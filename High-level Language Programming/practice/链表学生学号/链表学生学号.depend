@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603283223 source:d:\clanguage\链表学生学号\main.c
+	<stdio.h>
+	<stdlib.h>
+

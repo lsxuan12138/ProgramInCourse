@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603605669 source:d:\clanguage\日期转换困难\main.c
+	<stdio.h>
+	<stdlib.h>
+

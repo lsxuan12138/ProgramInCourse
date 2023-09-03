@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603530070 source:d:\clanguage\递归计算行列式的值\main.c
+	<math.h>
+	<stdio.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1609068955 source:d:\study\c”Ô—‘\2048\test15\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	<time.h>
+

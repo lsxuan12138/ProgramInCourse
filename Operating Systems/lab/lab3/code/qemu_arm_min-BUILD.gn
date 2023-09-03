@@ -1,0 +1,9 @@
+group("qemu_arm_min") {
+    deps = [
+        "init_configs"
+    ]
+    deps += [
+        "helloworld:helloworld",
+        "multiprocess:multiprocess"
+    ]
+}

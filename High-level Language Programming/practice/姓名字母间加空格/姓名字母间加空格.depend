@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602833160 source:d:\clanguage\姓名字母间加空格\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602582025 source:d:\clanguage\输出显示平方值的表格\main.c
+	<stdio.h>
+	<stdlib.h>
+

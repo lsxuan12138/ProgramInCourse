@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603272058 source:d:\clanguage\极难综合大赛评分\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

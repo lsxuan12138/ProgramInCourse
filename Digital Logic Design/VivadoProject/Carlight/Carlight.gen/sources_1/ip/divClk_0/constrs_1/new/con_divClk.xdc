@@ -1,0 +1,8 @@
+set_property PACKAGE_PIN P17 [get_ports Clk]
+set_property IOSTANDARD LVCMOS33 [get_ports Clk]
+set_property PACKAGE_PIN P5 [get_ports s1]
+set_property IOSTANDARD LVCMOS33 [get_ports s1]
+set_property PACKAGE_PIN P4 [get_ports s0]
+set_property IOSTANDARD LVCMOS33 [get_ports s0]
+set_property PACKAGE_PIN F6 [get_ports divClk]
+set_property IOSTANDARD LVCMOS33 [get_ports divClk]

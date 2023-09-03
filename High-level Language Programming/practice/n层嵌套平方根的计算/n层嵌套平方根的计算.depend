@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602509398 source:d:\clanguage\n层嵌套平方根的计算\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

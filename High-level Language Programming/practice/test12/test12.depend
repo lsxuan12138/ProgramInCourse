@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1604579877 source:d:\clanguage\test12\main.c
+	<stdio.h>
+
+1604660058 source:d:\clanguage\È¤Î¶¶íÂÞË¹·½¿é\È¤Î¶¶íÂÞË¹·½¿é.cpp
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+

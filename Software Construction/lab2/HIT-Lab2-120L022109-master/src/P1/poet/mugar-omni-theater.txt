@@ -1,0 +1,3 @@
+Make sure you have documented specifications, in the form of properly-formatted Javadoc comments, for all your types and operations.
+Make sure you have documented abstraction functions and representation invariants, in the form of a comment near the field declarations, for all your implementations.
+With the rep invariant, also say how the type prevents rep exposure.

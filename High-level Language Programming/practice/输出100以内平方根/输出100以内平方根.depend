@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602580366 source:d:\clanguage\输出100以内平方根\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

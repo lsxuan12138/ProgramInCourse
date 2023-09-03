@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606651301 source:d:\clanguage\将数据按照奇偶排序\main.c
+	<stdio.h>
+	<stdlib.h>
+

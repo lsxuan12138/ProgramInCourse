@@ -1,0 +1,12 @@
+
+e
+java:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(§ËË´8çìÈÒ0
+T
+java:S1135
+"2Complete the task associated to this TODO comment.(öË…æùÿÿÿÿ8’çìÈÒ0
+\	java:S899";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ8˜çìÈÒ0
+p
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8˜çìÈÒ0
+c	java:S899"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ8˜çìÈÒ0
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8›çìÈÒ0

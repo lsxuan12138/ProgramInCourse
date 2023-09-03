@@ -1,0 +1,32 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"0.922581",
+   "Default View_TopLeft":"-505,-10",
+   "ExpandedHierarchyInLayout":"",
+   "PinnedPorts":"Y2|",
+   "commentid":"",
+   "guistr":"# # String gsaved with Nlview 7.0r6  2020-01-29 bk=1.5227 VDI=41 GEI=36 GUI=JA:10.0 non-TLS-threadsafe
+#  -string -flagsOSRD
+preplace port port-id_CLK -pg 1 -lvl 0 -x -180 -y 10 -defaultsOSRD
+preplace port port-id_Rst -pg 1 -lvl 0 -x -180 -y 40 -defaultsOSRD
+preplace port port-id_Y4 -pg 1 -lvl 3 -x 410 -y 20 -defaultsOSRD
+preplace port port-id_Y3 -pg 1 -lvl 3 -x 410 -y 220 -defaultsOSRD
+preplace port port-id_Y2 -pg 1 -lvl 3 -x 410 -y 40 -defaultsOSRD
+preplace port port-id_Y1 -pg 1 -lvl 3 -x 410 -y 290 -defaultsOSRD
+preplace inst D_trigger_0 -pg 1 -lvl 1 -x 130 -y 80 -defaultsOSRD
+preplace inst D_trigger_1 -pg 1 -lvl 1 -x 130 -y 220 -defaultsOSRD
+preplace inst D_trigger_2 -pg 1 -lvl 1 -x 130 -y 360 -defaultsOSRD
+preplace inst D_trigger_3 -pg 1 -lvl 1 -x 130 -y 500 -defaultsOSRD
+preplace inst myNor_0 -pg 1 -lvl 2 -x 300 -y 440 -defaultsOSRD
+preplace netloc Rst_1 1 0 1 -160 40n
+preplace netloc CLK_1 1 0 1 -150 10n
+preplace netloc D_trigger_3_q 1 0 3 -130 590 220 20 N
+preplace netloc D_trigger_2_q 1 0 3 -140 580 230 220 N
+preplace netloc D_trigger_1_q 1 0 3 -130 0 210 40 N
+preplace netloc D_trigger_0_q 1 1 2 N 80 370
+preplace netloc myNor_0_out 1 0 3 -120 600 NJ 600 370
+levelinfo -pg 1 -180 130 300 410
+pagesize -pg 1 -db -bbox -sgen -260 -10 480 610
+"
+}
+

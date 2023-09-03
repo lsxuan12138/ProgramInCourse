@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603970400 source:d:\clanguage\判断素数质因数分解\main.c
+	<stdio.h>
+	<stdlib.h>
+

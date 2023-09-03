@@ -1,0 +1,129 @@
+{
+  "design": {
+    "design_info": {
+      "boundary_crc": "0xAB94D9101294A6B5",
+      "device": "xc7a35tcsg324-3",
+      "gen_directory": "../../../../4Dcounter.gen/sources_1/bd/D_beat",
+      "name": "D_beat",
+      "rev_ctrl_bd_flag": "RevCtrlBdOff",
+      "synth_flow_mode": "Hierarchical",
+      "tool_version": "2021.1",
+      "validated": "true"
+    },
+    "design_tree": {
+      "D_trigger_0": "",
+      "D_trigger_1": "",
+      "D_trigger_2": "",
+      "D_trigger_3": "",
+      "myNor_0": ""
+    },
+    "ports": {
+      "CLK": {
+        "direction": "I"
+      },
+      "Rst": {
+        "direction": "I"
+      },
+      "Y4": {
+        "direction": "O"
+      },
+      "Y3": {
+        "direction": "O"
+      },
+      "Y2": {
+        "direction": "O"
+      },
+      "Y1": {
+        "direction": "O"
+      }
+    },
+    "components": {
+      "D_trigger_0": {
+        "vlnv": "xilinx.com:user:D_trigger:1.0",
+        "xci_name": "D_beat_D_trigger_0_0",
+        "xci_path": "ip\\D_beat_D_trigger_0_0\\D_beat_D_trigger_0_0.xci",
+        "inst_hier_path": "D_trigger_0"
+      },
+      "D_trigger_1": {
+        "vlnv": "xilinx.com:user:D_trigger:1.0",
+        "xci_name": "D_beat_D_trigger_1_0",
+        "xci_path": "ip\\D_beat_D_trigger_1_0\\D_beat_D_trigger_1_0.xci",
+        "inst_hier_path": "D_trigger_1"
+      },
+      "D_trigger_2": {
+        "vlnv": "xilinx.com:user:D_trigger:1.0",
+        "xci_name": "D_beat_D_trigger_2_0",
+        "xci_path": "ip\\D_beat_D_trigger_2_0\\D_beat_D_trigger_2_0.xci",
+        "inst_hier_path": "D_trigger_2"
+      },
+      "D_trigger_3": {
+        "vlnv": "xilinx.com:user:D_trigger:1.0",
+        "xci_name": "D_beat_D_trigger_3_0",
+        "xci_path": "ip\\D_beat_D_trigger_3_0\\D_beat_D_trigger_3_0.xci",
+        "inst_hier_path": "D_trigger_3"
+      },
+      "myNor_0": {
+        "vlnv": "xilinx.com:user:myNor:1.0",
+        "xci_name": "D_beat_myNor_0_0",
+        "xci_path": "ip\\D_beat_myNor_0_0\\D_beat_myNor_0_0.xci",
+        "inst_hier_path": "myNor_0"
+      }
+    },
+    "nets": {
+      "CLK_1": {
+        "ports": [
+          "CLK",
+          "D_trigger_0/clk",
+          "D_trigger_1/clk",
+          "D_trigger_2/clk",
+          "D_trigger_3/clk"
+        ]
+      },
+      "D_trigger_0_q": {
+        "ports": [
+          "D_trigger_0/q",
+          "Y1"
+        ]
+      },
+      "D_trigger_1_q": {
+        "ports": [
+          "D_trigger_1/q",
+          "D_trigger_0/d",
+          "Y2",
+          "myNor_0/i3"
+        ]
+      },
+      "D_trigger_2_q": {
+        "ports": [
+          "D_trigger_2/q",
+          "D_trigger_1/d",
+          "Y3",
+          "myNor_0/i2"
+        ]
+      },
+      "D_trigger_3_q": {
+        "ports": [
+          "D_trigger_3/q",
+          "D_trigger_2/d",
+          "Y4",
+          "myNor_0/i1"
+        ]
+      },
+      "Rst_1": {
+        "ports": [
+          "Rst",
+          "D_trigger_0/rst",
+          "D_trigger_1/rst",
+          "D_trigger_2/rst",
+          "D_trigger_3/rst"
+        ]
+      },
+      "myNor_0_out": {
+        "ports": [
+          "myNor_0/out",
+          "D_trigger_3/d"
+        ]
+      }
+    }
+  }
+}

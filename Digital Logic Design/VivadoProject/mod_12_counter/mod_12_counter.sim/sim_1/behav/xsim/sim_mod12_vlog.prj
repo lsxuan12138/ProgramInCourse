@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../mod_12_counter.gen/sources_1/ip/jk_trigger_0/sources_1/new/jk_trigger.v" \
+"../../../../mod_12_counter.gen/sources_1/ip/jk_trigger_0/sim/jk_trigger_0.v" \
+"../../../../mod_12_counter.srcs/sources_1/new/mod_12_counter.v" \
+"../../../../mod_12_counter.srcs/sim_1/new/sim_mod12.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

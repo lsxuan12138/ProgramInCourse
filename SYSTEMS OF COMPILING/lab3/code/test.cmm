@@ -1,0 +1,14 @@
+int add(int a,int b){
+	write(a);
+	write(b);
+	return a+b;
+}
+
+int main(){
+	int x;
+	int y;
+	x = read();
+	y = read();
+	write(add(x,y));
+	return 0;
+}

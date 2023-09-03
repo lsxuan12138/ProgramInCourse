@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603467870 source:d:\clanguage\mn间素数求和\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

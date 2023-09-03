@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Tue Oct 26 19:20:04 2021
+# Process ID: 12588
+# Current directory: D:/VProject/D_trigger
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent15996 D:\VProject\D_trigger\D_trigger.xpr
+# Log file: D:/VProject/D_trigger/vivado.log
+# Journal file: D:/VProject/D_trigger\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/VProject/D_trigger/D_trigger.xpr
+update_compile_order -fileset sources_1
